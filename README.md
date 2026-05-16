@@ -1,6 +1,6 @@
 # PPSF – Privacy-Preserving Data Mining Library
 
-This repository contains an archived version of the source code for **PPSF**, a research-oriented library for privacy-preserving data mining.
+This repository contains an **archived version** of the source code for **PPSF**, a research-oriented library for privacy-preserving data mining.
 
 PPSF was developed to support experimentation and research on techniques for protecting sensitive information during the data mining process while maintaining data utility for analysis and pattern discovery.
 
@@ -19,7 +19,7 @@ If you use PPSF in your research, please cite the following publication:
 
 ## About This Repository
 
-This repository is provided for archival and research purposes. 
+This repository is provided for **archival** and research **purposes**. 
 It preserves the original implementation associated with the PPSF project and accompanying publication. The code may be useful for:
 
 - Reproducibility of published research
