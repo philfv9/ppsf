@@ -1,0 +1,8 @@
+================================
+the time of Ming is : 3s
+********************************
+F-T-H: 1	N-T-H: 166	N-T-G: 0		Fitness: 17.400000000000002
+the time of sanitization is : 2877ms
+================================
+the final run time is :6s
+

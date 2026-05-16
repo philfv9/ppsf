@@ -1,0 +1,134 @@
+the time of Ming is : 1s
+===================Initial====================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 124	N-T-G: 1		Fitness: 37.89999999999999
+Particle swarm 2: 	F-T-H: 1	N-T-H: 136	N-T-G: 0		Fitness: 41.099999999999994
+Particle swarm 3: 	F-T-H: 1	N-T-H: 121	N-T-G: 0		Fitness: 36.599999999999994
+Particle swarm 4: 	F-T-H: 1	N-T-H: 117	N-T-G: 1		Fitness: 35.8
+Particle swarm 5: 	F-T-H: 1	N-T-H: 109	N-T-G: 1		Fitness: 33.39999999999999
+===============================================
+
+================generation : 1=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 129	N-T-G: 0		Fitness: 38.99999999999999
+Particle swarm 2: 	F-T-H: 1	N-T-H: 115	N-T-G: 1		Fitness: 35.199999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 124	N-T-G: 2		Fitness: 38.29999999999999
+Particle swarm 4: 	F-T-H: 1	N-T-H: 131	N-T-G: 0		Fitness: 39.599999999999994
+Particle swarm 5: 	F-T-H: 1	N-T-H: 109	N-T-G: 1		Fitness: 33.39999999999999
+===============================================
+
+================generation : 2=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 116	N-T-G: 1		Fitness: 35.49999999999999
+Particle swarm 2: 	F-T-H: 1	N-T-H: 126	N-T-G: 1		Fitness: 38.49999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 124	N-T-G: 0		Fitness: 37.49999999999999
+Particle swarm 4: 	F-T-H: 1	N-T-H: 118	N-T-G: 2		Fitness: 36.49999999999999
+Particle swarm 5: 	F-T-H: 1	N-T-H: 109	N-T-G: 1		Fitness: 33.39999999999999
+===============================================
+
+================generation : 3=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 125	N-T-G: 1		Fitness: 38.199999999999996
+Particle swarm 2: 	F-T-H: 1	N-T-H: 120	N-T-G: 1		Fitness: 36.699999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 124	N-T-G: 2		Fitness: 38.29999999999999
+Particle swarm 4: 	F-T-H: 1	N-T-H: 123	N-T-G: 0		Fitness: 37.199999999999996
+Particle swarm 5: 	F-T-H: 1	N-T-H: 109	N-T-G: 1		Fitness: 33.39999999999999
+===============================================
+
+================generation : 4=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 104	N-T-G: 4		Fitness: 33.1
+Particle swarm 2: 	F-T-H: 1	N-T-H: 121	N-T-G: 1		Fitness: 36.99999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 114	N-T-G: 3		Fitness: 35.699999999999996
+Particle swarm 4: 	F-T-H: 1	N-T-H: 139	N-T-G: 0		Fitness: 41.99999999999999
+Particle swarm 5: 	F-T-H: 1	N-T-H: 109	N-T-G: 1		Fitness: 33.39999999999999
+===============================================
+
+================generation : 5=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 104	N-T-G: 4		Fitness: 33.1
+Particle swarm 2: 	F-T-H: 1	N-T-H: 115	N-T-G: 4		Fitness: 36.4
+Particle swarm 3: 	F-T-H: 1	N-T-H: 115	N-T-G: 5		Fitness: 36.8
+Particle swarm 4: 	F-T-H: 1	N-T-H: 109	N-T-G: 3		Fitness: 34.199999999999996
+Particle swarm 5: 	F-T-H: 1	N-T-H: 118	N-T-G: 1		Fitness: 36.099999999999994
+===============================================
+
+================generation : 6=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 104	N-T-G: 4		Fitness: 33.1
+Particle swarm 2: 	F-T-H: 1	N-T-H: 108	N-T-G: 2		Fitness: 33.49999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 125	N-T-G: 0		Fitness: 37.8
+Particle swarm 4: 	F-T-H: 1	N-T-H: 116	N-T-G: 3		Fitness: 36.3
+Particle swarm 5: 	F-T-H: 1	N-T-H: 112	N-T-G: 1		Fitness: 34.3
+===============================================
+
+================generation : 7=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 104	N-T-G: 4		Fitness: 33.1
+Particle swarm 2: 	F-T-H: 1	N-T-H: 116	N-T-G: 4		Fitness: 36.699999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 6		Fitness: 32.7
+Particle swarm 4: 	F-T-H: 1	N-T-H: 105	N-T-G: 4		Fitness: 33.4
+Particle swarm 5: 	F-T-H: 1	N-T-H: 116	N-T-G: 3		Fitness: 36.3
+===============================================
+
+================generation : 8=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 107	N-T-G: 4		Fitness: 34.0
+Particle swarm 2: 	F-T-H: 1	N-T-H: 121	N-T-G: 2		Fitness: 37.39999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 104	N-T-G: 5		Fitness: 33.5
+Particle swarm 4: 	F-T-H: 1	N-T-H: 112	N-T-G: 3		Fitness: 35.1
+Particle swarm 5: 	F-T-H: 1	N-T-H: 117	N-T-G: 2		Fitness: 36.199999999999996
+===============================================
+
+================generation : 9=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 106	N-T-G: 5		Fitness: 34.099999999999994
+Particle swarm 2: 	F-T-H: 1	N-T-H: 106	N-T-G: 4		Fitness: 33.699999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 123	N-T-G: 1		Fitness: 37.599999999999994
+Particle swarm 5: 	F-T-H: 1	N-T-H: 107	N-T-G: 3		Fitness: 33.6
+===============================================
+
+================generation : 10=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 105	N-T-G: 4		Fitness: 33.4
+Particle swarm 2: 	F-T-H: 1	N-T-H: 109	N-T-G: 8		Fitness: 36.199999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 112	N-T-G: 1		Fitness: 34.3
+Particle swarm 5: 	F-T-H: 1	N-T-H: 125	N-T-G: 1		Fitness: 38.199999999999996
+===============================================
+
+================generation : 11=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 102	N-T-G: 5		Fitness: 32.9
+Particle swarm 2: 	F-T-H: 1	N-T-H: 114	N-T-G: 2		Fitness: 35.29999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 112	N-T-G: 1		Fitness: 34.3
+Particle swarm 5: 	F-T-H: 1	N-T-H: 102	N-T-G: 7		Fitness: 33.699999999999996
+===============================================
+
+================generation : 12=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 108	N-T-G: 2		Fitness: 33.49999999999999
+Particle swarm 2: 	F-T-H: 1	N-T-H: 111	N-T-G: 3		Fitness: 34.8
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 112	N-T-G: 3		Fitness: 35.1
+Particle swarm 5: 	F-T-H: 1	N-T-H: 110	N-T-G: 3		Fitness: 34.5
+===============================================
+
+================generation : 13=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 108	N-T-G: 3		Fitness: 33.9
+Particle swarm 2: 	F-T-H: 1	N-T-H: 102	N-T-G: 7		Fitness: 33.699999999999996
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 121	N-T-G: 1		Fitness: 36.99999999999999
+Particle swarm 5: 	F-T-H: 1	N-T-H: 111	N-T-G: 1		Fitness: 33.99999999999999
+===============================================
+
+================generation : 14=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 110	N-T-G: 5		Fitness: 35.3
+Particle swarm 2: 	F-T-H: 1	N-T-H: 124	N-T-G: 1		Fitness: 37.89999999999999
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 102	N-T-G: 5		Fitness: 32.9
+Particle swarm 5: 	F-T-H: 1	N-T-H: 106	N-T-G: 4		Fitness: 33.699999999999996
+===============================================
+
+================generation : 15=================
+Particle swarm 1: 	F-T-H: 1	N-T-H: 102	N-T-G: 7		Fitness: 33.699999999999996
+Particle swarm 2: 	F-T-H: 1	N-T-H: 100	N-T-G: 6		Fitness: 32.7
+Particle swarm 3: 	F-T-H: 1	N-T-H: 100	N-T-G: 5		Fitness: 32.3
+Particle swarm 4: 	F-T-H: 1	N-T-H: 113	N-T-G: 1		Fitness: 34.599999999999994
+Particle swarm 5: 	F-T-H: 1	N-T-H: 119	N-T-G: 2		Fitness: 36.79999999999999
+===============================================
+
+the total time is : 65s
+the final best solution is : 	[2856, 2334, 32, 891, 1561, 936, 2827, 3043, 2762, 557, 574, 15, 303, 1865, 1190, 1286, 55, 436, 3111, 2185, 321, 390, 1094, 555, 2623, 232, 2265, 2588, 473, 2181, 1598, 2970, 2664, 227, 78, 1541, 2809, 277, 1363, 2508, 2439, 2407, 925, 374, 1211, 938, 383, 107, 2492, 2567, 12, 1719, 1194, 773, 475, 644, 1099, 69, 2596, 1652, 2472, 294, 284, 2383, 1590, 1306, 1082, 929, 459, 2426, 1922, 2026, 2552, 1624, 1693, 1920, 319, 2693, 1442, 2102, 801, 894, 2671, 1984, 602, 1976, 2175, 2995, 1213, 2032, 2158, 798, 2600, 1524, 1824, 1471, 1855, 2149, 723, 2327, 2737, 2322, 269, 3045, 2818, 1362, 1644, 1157, 2739, 1379, 2156, 267, 128, 1841, 2988, 3077, 1762, 1454, 1637, 922, 1131, 916, 2649, 73, 2690, 62, 409, 520, 339, 2972, 2007, 1609, 1931, 2694, 2790, 3131, 1742, 2819, 3134, 1906, 2787, 1039, 50, 728, 1037, 1555, 314, 2274, 997, 2157, 1566, 1034, 1992, 1880, 2329, 2230, 1949, 2233, 1511, 1901, 1868, 710, 236, 3055, 957, 2174, 1409, 168, 847, 2999, 2605, 981, 1494, 1893, 2085, 301, 195, 2968, 537, 1432, 2395, 2535, 2620, 1109, 0, 2673, 1912, 634, 944, 547, 359, 2105, 2299, 1242, 1579, 2009, 2286, 1575, 2289, 2064, 240, 2151, 2053, 1747, 1027, 1534, 1657, 642, 2453, 2345, 442, 1560, 463, 1656, 1359, 889, 1011, 1519, 671, 527, 1917, 746, 435, 2006, 722, 2644, 3076, 1015, 41, 0, 926, 2674, 626, 575, 100, 2654, 1461, 614, 750, 833, 0, 2474, 1316, 1205, 2388, 2580, 1090, 2857, 1565, 1933, 1663, 1588, 26, 2067, 1527, 2549, 1853, 2389, 2501, 677, 1728, 1096, 2825, 1613, 860, 2236, 2954, 2586, 1760, 987, 1950, 1439, 174, 543, 2163, 298, 94, 720, 824, 3001, 1355, 666, 1277, 595, 2384, 2706, 450, 1701, 2210, 641, 245, 2630, 1118, 1990, 0, 2506, 1319, 0, 205, 2143, 1150, 103, 0, 2585, 719, 1342, 0]
+the fitness is : 32.3
+the final run time is :72s
+

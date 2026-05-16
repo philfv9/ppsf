@@ -1,0 +1,65 @@
+about input:
+
+K-Anonymity:
+	GSC
+	PTA
+		input database file:  
+			datasets/chess/chess.dat
+			datasets/accidents/accidents.dat
+			datasets/foodmart/foodmart.dat
+			datasets/mushroom/mushroom.dat
+			datasets/T10I4D100k/T10I4D100k.dat
+			datasets/connect/connect.dat
+			datasets/pumsb/pumsb.dat
+		input utility table file:  
+			datasets/chess/chess_countTable.txt
+			datasets/accidents/accidents_countTable.txt
+			datasets/foodmart/foodmart_countTable.txt
+			datasets/mushroom/mushroom_countTable.txt
+			datasets/T10I4D100k/T10I4D100k_countTable.txt
+			datasets/connect/connect_countTable.txt
+			datasets/pumsb/pumsb_countTable.txt
+
+PPDM:
+	Greedy
+	sGA2DT
+	pGA2DT
+	cpGA2DT
+	PSO2DT
+		input database file:
+			datasets/chess/chess.dat
+			datasets/foodmart/foodmart.dat
+			datasets/mushroom/mushroom.dat
+			datasets/T10I4D100k/T10I4D100k.dat
+		input sensitive itemsets file:
+			datasets/chess/SensitiveItemsets/...
+			datasets/foodmart/SensitiveItemsets/...
+			datasets/mushroom/SensitiveItemsets/...
+			datasets/T10I4D100k/SensitiveItemsets/...
+	SIF-IDF
+		input database file:
+			datasets/Web-View1/Web-View1.txt
+			datasets/Web-View2/Web-View2.txt
+
+PPUM:
+	HHUIF
+	MSICF
+	MSU_MAU
+	MSU_MIU
+		input database file:  
+			datasets/chess/chess_UM_New.txt
+			datasets/mushroom/mushroom_UM_New.txt
+			datasets/T10I4D100k/T10I4D100k_UM_New.txt
+		input utility table fiel:  
+			datasets/chess/chess_UM_UtilityTable.txt
+			datasets/mushroom/mushroom_UM_UtilityTable.txt
+			datasets/T10I4D100k/T10I4D100k_UM_UtilityTable.txt
+	pGAPPUM
+		input database file:  
+			datasets/chess/chess_utility.txt
+			datasets/foodmart/foodmart_utility.dat
+			datasets/mushroom/mushroom_utility.dat
+		input sensitive itemsets file:
+			datasets/chess/pGAPPUM_sensitive/...
+			datasets/foodmart/pGAPPUM_sensitive/...
+			datasets/mushroom/pGAPPUM_sensitive/...
